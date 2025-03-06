@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [My ClothingStore](https://github.com/ise-yed/ClothingStore)
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ise-yed](https://github.com/ise-yed)
 
 - 📫 How to reach me **iseyed.business@gmail.com**
